@@ -15,9 +15,9 @@ This website is designed to guide you through the process of determining whether
 
 ## Get Started
 
-- [CE Product Categories](ce-product-categories.html)
-- [MDR Overview](qualification_intended_use.html)
-- [Requirements Compliance](requirements.html)
+- [CE Product Categories](/md_sites/ce-product-categories.html)
+- [MDR Overview](/md_sites/qualification_intended_use.html)
+- [Requirements Compliance](/md_sites/requirements.html)
 
 ## Additional Resources
 
@@ -27,5 +27,5 @@ This website is designed to guide you through the process of determining whether
 
 ---
 
-If you have any questions or need further assistance, feel free to [contact us](mailto:mdr_sks@zhaw.ch). TBD
+If you have any questions or need further assistance, feel free to [contact us](mailto:mdr_sks@zhaw.ch). TBD mail not set in place!
 
